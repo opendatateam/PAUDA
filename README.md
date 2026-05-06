@@ -21,4 +21,4 @@ Il s'agit principalement d'un répertoire dédié à la gestion du produit PAUDA
 - Les tâches en cours
 - Les problèmes à traiter
 
-La visualisation de la gestionn du projet PAUDA est faite via [ce projet GitHub](https://github.com/orgs/opendatateam/projects/6).
+La visualisation de la gestion du projet PAUDA est faite via [ce projet GitHub](https://github.com/orgs/opendatateam/projects/6).
