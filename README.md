@@ -9,7 +9,7 @@ PAUDA se veut :
   - Données d’accessibilité, qui renverra vers les bases de données existantes (AccesLibre, transport.data.gouv.fr, data tourisme, etc.)
   - Documentation sur les normes / standards existants
 - Un outil de visualisation, voire de modélisation / statistiques sur les données référencées
-- Un lieu de dépôt des données sans « maison » (ex. celles des associations)
+- Un lieu de dépôt des données orphelines (ex. celles des associations)
 - Et surtout une équipe qui facilitera
   - L’ouverture et la réutilisation des données
   - La normalisation des données en y participant, voire en l’initiant
